@@ -3,10 +3,8 @@
   "name": "Tag Navigator",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Enhanced tag navigation and search utility for Obsidian.",
+  "description": "An enhanced tag navigation and search utility , providing smarter navigating experience.",
   "author": "Tiancheng Tan",
   "authorUrl": "https://github.com/EarthTan",
-  "js": "main.js",
-  "license": "MIT",
   "isDesktopOnly": false
 }
