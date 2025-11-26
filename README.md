@@ -24,13 +24,13 @@ Input the tag you want to navigate to, and `Enter`
 
  <img src="assets/image-20251126183819305.png" alt="image-20251126183819305" style="zoom:50%;" />
 
-<img src="assets/image-20251126183919515.png" alt="image-20251126183919515" style="zoom:50%;" />
+<img src="assets/image-20251126185507087.png" alt="image-20251126185507087" style="zoom:50%;" />
 
 # Feature
 
 ### 🚀 Smart Tag Navigation
 - **Frequency-based sorting**: Tags are sorted by usage frequency in descending order, making it easy to find commonly used tags
-- Allows fuzzy search
+- <u>Fuzzy search supported</u>
 
 ### 🔍 Convenient Search Integration
 - Provides a search button in the tag file chooser to quickly insert tags into global search
@@ -64,7 +64,7 @@ aliases: ["#tagname", "abc","hahaha"]
 When searching for this tag, the plugin will prioritize opening this tag note.
 
 # Development Information
-This plugin is based on the original work by R. W. Blickhan and has been modified and enhanced by Tiancheng Tan.
+This plugin is based on the [original work](https://github.com/rwblickhan/obsidian-tag-search) by [R. W. Blickhan](https://github.com/rwblickhan)  and has been modified and enhanced by Tiancheng Tan.
 ### Tech Stack
 - JavaScript/TypeScript
 - Obsidian API
