@@ -70,15 +70,11 @@ When searching for this tag, the plugin will prioritize opening this tag note.
 
 ## Development Information
 
-### Tech Stack
-- TypeScript
-- Obsidian API
+This plugin is based on the original work by R. W. Blickhan and has been modified and enhanced by Tiancheng Tan.
 
-### Build
-```bash
-npm install
-npm run build
-```
+### Tech Stack
+- JavaScript/TypeScript
+- Obsidian API
 
 ### Contributing
 Issues and Pull Requests are welcome!

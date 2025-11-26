@@ -70,15 +70,11 @@ aliases: ["#你的标签", "你的标签"]
 
 ## 开发信息
 
-### 技术栈
-- TypeScript
-- Obsidian API
+本插件基于 R. W. Blickhan 的原始工作，由 Tiancheng Tan 进行修改和增强。
 
-### 构建
-```bash
-npm install
-npm run build
-```
+### 技术栈
+- JavaScript/TypeScript
+- Obsidian API
 
 ### 贡献
 欢迎提交 Issue 和 Pull Request！
